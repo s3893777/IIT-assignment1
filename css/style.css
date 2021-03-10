@@ -1,0 +1,55 @@
+
+/* Global Styles */
+body {
+    margin: 0;
+    font-size: 21px; /*default font size */
+    font-family: Arial;
+}
+
+
+/* Typography */
+h1 {
+    font-size: 48px;
+}
+
+h2 {
+    font-size: 36px;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+a {
+    color: white;
+}
+
+/* Layout */
+
+header {
+    background-color:rgb(247, 0, 255);
+    color: white;
+    padding: 30px 0;
+    text-align: center;
+
+}
+
+.main-content{
+    padding: 10px 0;
+    text-align: center;
+}
+
+.otherpages {
+    background-color: rgb(153, 0, 255);
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.columns {
+    display: flex;
+}
+
+.column {
+    margin: 0 auto;
+}

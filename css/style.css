@@ -33,8 +33,12 @@ header {
 
 }
 
+table, th, td {
+  border: 1px;
+  padding: 10px;
+}
+
 .main-content{
-    padding: 10px 0;
-    text-align: center;
+    padding: 10px 10px;
 
 }

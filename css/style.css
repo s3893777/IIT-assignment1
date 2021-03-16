@@ -48,3 +48,8 @@ table, th, td {
     padding: 10px 10px;
 
 }
+
+.text-wrapright {
+  float: right;
+  margin: 10px;
+}

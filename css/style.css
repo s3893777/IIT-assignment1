@@ -10,12 +10,14 @@ body {
 /* Typography */
 h1 {
     font-size: 48px;
+    text-align: center;
 }
 
 h2 {
     font-size: 36px;
     background-color: #cc00cc;
     color: white;
+    text-align: center;
 }
 
 h3 {
@@ -35,7 +37,10 @@ header {
 
 table, th, td {
   border: 1px;
+  table-layout: fixed;
+  width: 100%;
   padding: 10px;
+
 }
 
 .main-content{

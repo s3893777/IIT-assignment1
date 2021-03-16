@@ -9,19 +9,20 @@ body {
 
 /* Typography */
 h1 {
-    font-size: 48px;
+    font-size: 50px;
     text-align: center;
 }
 
 h2 {
-    font-size: 36px;
+    font-size: 40px;
     background-color: #cc00cc;
     color: white;
     text-align: center;
+    padding: 10px;
 }
 
 h3 {
-    font-size: 20px;
+    font-size: 30px;
 }
 
 
